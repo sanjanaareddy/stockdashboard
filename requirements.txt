@@ -7,3 +7,5 @@ alpha_vantage>=2.3.1
 stocknews>=0.1.6
 matplotlib>=3.8.4
 openpyxl>=3.1.2
+seaborn>=0.13.2
+statsmodels>=0.14.2
